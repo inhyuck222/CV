@@ -10,17 +10,18 @@
 
 | 입학년월 | 졸업년월 | 출신 학교 |전공 | 평균/평점 | 
 | :---         |     :---:      |        :---:   |    :---:      | :---:       |  
-| 2011.2 | 2017.2 | 한성대학교   |컴퓨터공학부 | 3.61/4.5 |
+| 2011.2 | 2017.2 | 한성대학교   |컴퓨터공학부 | 3.72/4.5 |
 
 ### 3. 보유기술(Technical Skills)
 
 3.1  기초지식(Basics)
-* Programming Languages: C, C++, __Java__, Javascript, jQuery
-* Operating Systems: Linux, Windows
-* IDE(Eclipse, Android Studio)
+* Programming Languages: C, C++, C#, __Java__
+* Operating Systems: OS X, Windows
+* IDE(Eclipse, Android Studio, Unity, Visual Studio 2015)
 
 3.2 세부 전공 기술
-* 모바일 개발 (Android)
+* Mobile Application (Android)
+* Contents (Unity)
 
 3.3 소프트웨어 도구(Software Tools)
 * 소스코드관리(__Git__)
