@@ -61,16 +61,6 @@
 | 봉사 활동 | 상품 정리 및 관리    | 아름다운가게     |2016.04~2016.07  |
 
 
-
-
 ###연락처(Contact)
 github: https://github.com/inhyuck222
 email: inhyuck222@gmail.com
-
-
-
-
-
-
-
-
