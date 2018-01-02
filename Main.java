@@ -76,7 +76,6 @@ public class Main {
 					break;
 				}
 			}
-			//System.out.println(isOkay);
 			if (isOkay) {
 				ans++;
 			}
@@ -100,27 +99,8 @@ public class Main {
 				mapTopDown[j][i] = mapLeftRight[i][j];
 			}
 		}
-		/*
-		System.out.println();
-
-		for (int i = 0; i < n; i++) {
-			System.out.println(Arrays.toString(mapTopDown[i]));
-		}
-
-		System.out.println(checkMap(mapTopDown));
-		for (int i = 0; i < n; i++) {
-			Arrays.fill(isSlope[i], false);
-			System.out.println(Arrays.toString(mapLeftRight[i]));
-		}
-		System.out.println(checkMap(mapLeftRight));
-		*/
-		result += checkMap(mapTopDown);
-		for (int i = 0; i < n; i++) {
-			Arrays.fill(isSlope[i], false);
-		}
-		result += checkMap(mapLeftRight);
-		System.out.println(result);
-
+		
+		System.out.println(checkMap(mapTopDown) + checkMap(mapLeftRight));
 	}
 
 	public static void main(String[] args) {
